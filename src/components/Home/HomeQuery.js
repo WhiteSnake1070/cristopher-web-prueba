@@ -53,7 +53,7 @@ const HomeQuery = () => {
       <Image src="/img/bg-home-4.jpg" alt="background" layout="fill" objectFit="cover" priority />
       <Box sx={styles.content}>
         <Container component="form" onSubmit={handleSubmit}>
-          <Typography variant="h4" sx={styles.text}>Consulta la información</Typography>
+          <Typography variant="h4" sx={styles.text}>Consulta la información jajajajajajajaja</Typography>
           <AppQueryTextField placeholder="Ingresa un número de cédula" value={query} onChange={handleChange} onSubmit={handleSubmit} />
           <Typography variant="h5" sx={styles.text}>* La información encontrada es de carácter orientador</Typography>
         </Container>
