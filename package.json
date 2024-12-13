@@ -1,0 +1,31 @@
+{
+  "name": "cristopher-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "11.10.4",
+    "@emotion/styled": "11.10.4",
+    "@mui/icons-material": "5.10.6",
+    "@mui/material": "5.10.8",
+    "@react-pdf/renderer": "3.0.2",
+    "@reduxjs/toolkit": "1.8.5",
+    "@splidejs/react-splide": "0.7.12",
+    "axios": "1.1.0",
+    "cleave.js": "1.6.0",
+    "moment": "2.29.4",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "8.0.4"
+  },
+  "devDependencies": {
+    "eslint": "8.24.0",
+    "eslint-config-next": "12.3.1"
+  }
+}
